@@ -1,5 +1,5 @@
 def LowerinUper(text):
-    """Переводит все буквы в верхний регистр"""
+    """Функция перевведит текс в верхний регистр"""
     return text.upper()
 
 def FirstLettertoUpper(text):
